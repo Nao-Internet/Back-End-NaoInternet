@@ -1,2 +1,6 @@
 # Back-End-NaoInternet
-Backend of NaoInternet
+
+##Propietarios
+### Gerardo Daniel Huerta Macedo
+### Gerardo Manuel Huerta Macedo
+### Gerardo Josue Huerta Macedo

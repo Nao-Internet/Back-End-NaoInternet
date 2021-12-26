@@ -1,6 +1,6 @@
 # Back-End-NaoInternet
 
-##Propietarios
+## Propietarios
 ### Gerardo Daniel Huerta Macedo
 ### Gerardo Manuel Huerta Macedo
 ### Gerardo Josue Huerta Macedo

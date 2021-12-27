@@ -30,4 +30,5 @@ public class Modem implements Serializable {
     private String sn;
     @Column(name="mac",nullable = false,length = 20)
     private String mac;
+
 }

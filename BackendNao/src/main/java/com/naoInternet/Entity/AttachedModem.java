@@ -32,12 +32,14 @@ public class AttachedModem implements Serializable {
     @Column(name = "billingDate",nullable = false)
     @Temporal(TemporalType.DATE)
     private Date billingDate;
+
     //RELACIONES
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "client_id",nullable = false)
     @JsonIgnoreProperties({"hibernateLazyInitializer","handler"})
     private Client client;
-    @ManyToOne(fetch = FetchType.LAZY)
+
+    @OneToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "modem_id",nullable = false)
     @JsonIgnoreProperties({"hibernateLazyInitializer","handler"})
     private Modem modem;

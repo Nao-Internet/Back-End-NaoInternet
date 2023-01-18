@@ -1,6 +1,5 @@
-# Back-End-NaoInternet
+# Back-End-Hucer.SAC
 
 ## Propietarios
-### Gerardo Daniel Huerta Macedo
-### Gerardo Manuel Huerta Macedo
+### Jorge Cervantes
 ### Gerardo Josue Huerta Macedo
